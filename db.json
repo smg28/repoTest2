@@ -1,11 +1,5 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "session": {"success": true, "results": {"session": "bodnnhhui5d0e9gv4mj376op25","userId":
+"1","isAdmin": "1","serverTZ": "PDT","apiVersion": "1.5.0","isCurrentAPI":
+true,"matdVersion": "4.x.x.x.x"} } 
 }
